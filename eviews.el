@@ -39,7 +39,7 @@
 
 ;;; Commentary: 
 ;;
-;; Bitcoin donations gratefully accepted: 
+;; Bitcoin donations gratefully accepted: 1PwLXDzSWtPB7HBUJ32nybW3tqrdAoEfEM
 ;;
 ;; This library provides font highlighting and indenting for eviews program files.
 ;;
