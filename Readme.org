@@ -1,0 +1,28 @@
+* Library Information
+ Readme.org --- Major-mode for editing eviews program files
+
+ - Filename :: [[file:eviews.el][eviews.el]]
+ - Description :: Major-mode for editing eviews program files
+ - Author :: Joe Bloggs <vapniks@yahoo.com>
+ - Maintainer :: Joe Bloggs <vapniks@yahoo.com>
+ - Copyleft (Ↄ) 2013, Joe Bloggs, all rites reversed.
+ - Created :: 2008/08/01 
+ - Version :: 0.1
+ - Last-Updated :: 2013-05-13 16:36:29
+ -           By :: Joe Bloggs
+ - URL :: https://github.com/vapniks/eviews
+ - Keywords :: languages
+ - Compatibility :: GNU Emacs 24.3.1
+Package-Requires:  
+
+* Commentary
+Bitcoin donations gratefully accepted: 1PwLXDzSWtPB7HBUJ32nybW3tqrdAoEfEM
+
+This library provides font highlighting and indenting for eviews program files.
+* Installation
+
+ - If you have [[http://www.marmalade-repo.org/][marmalade-repo.org]], this eviews is part of the emacs packages you can install.  
+   Just type M-x package-install eviews marmalade 
+ - Otherwise download the library from here Lisp:eviews, and put it in a directory in the emacs load path, like ~/.emacs.d
+ - Add (require 'eviews) in your ~/.emacs file
+
