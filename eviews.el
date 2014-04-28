@@ -116,6 +116,7 @@
 (defvar eviews-font-lock-keywords eviews-font-lock-keywords-1
   "Default highlighting expressions for eviews mode.")
 
+;;;###autoload
 (defun eviews-indent-line ()
   "Indent current line as eviews code."
   (interactive)
@@ -155,6 +156,7 @@
     eviews-mode-syntax-table)
   "Syntax table for eviews-mode.")
 
+;;;###autoload
 (defun eviews-mode ()
   "Major mode for editing eviews programs."
   (interactive)
